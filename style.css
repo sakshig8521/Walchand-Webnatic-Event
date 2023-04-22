@@ -1,0 +1,10 @@
+.container{
+    position: absolute;
+    top: 65%;
+}
+.d-block{
+    height: 500px;
+    width: 500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
